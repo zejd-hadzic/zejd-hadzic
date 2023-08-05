@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @zejd-hadzic
-- 👀 I’m interested in Web, Game and AI Development
-- 🌱 I’m currently learning Game development in Unity
+- 👀 I’m interested in Web development and design
+- 🌱 I’m currently learning React
 - 📫 How to reach me: zejd.hadzic.business@gmail.com
